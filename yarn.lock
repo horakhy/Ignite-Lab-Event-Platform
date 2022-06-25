@@ -374,26 +374,6 @@
   resolved "https://registry.yarnpkg.com/@types/scheduler/-/scheduler-0.16.2.tgz#1a62f89525723dde24ba1b01b092bf5df8ad4d39"
   integrity sha512-hppQEBDmlwhFAXKJX2KnWLYu5yMfi91yazPb2l+lbJiwW+wdo1gNeRA+3RgNSO39WYX2euey41KEwnqesU2Jew==
 
-"@vime-js/core@^1.6.6":
-  version "1.6.6"
-  resolved "https://registry.yarnpkg.com/@vime-js/core/-/core-1.6.6.tgz#d8a1a0963db4c693789481121360118355e43373"
-  integrity sha512-ItG1Vm49RvpAv6MxneeiLGD4R6lSXXpFScchkG7hzy/DHW7Ok3Gf0JooqWPmafnQo1WgpUeCRmDb/UrBU/UVDA==
-  dependencies:
-    "@vime-js/utils" "^1.6.6"
-
-"@vime-js/preview@^1.6.6":
-  version "1.6.6"
-  resolved "https://registry.yarnpkg.com/@vime-js/preview/-/preview-1.6.6.tgz#4c59ddc764de70acab12087339f0968cc4bbe7b0"
-  integrity sha512-JhPRwaN2omCmPFBCt2sAgDSrsEltdBrNUlp8SKPzPO7u2y2r+5GU8GRLgMW82xzr6w/D0kysp7fFBSRY/LqD1g==
-  dependencies:
-    "@vime-js/core" "^1.6.6"
-    "@vime-js/utils" "^1.6.6"
-
-"@vime-js/utils@^1.6.6":
-  version "1.6.6"
-  resolved "https://registry.yarnpkg.com/@vime-js/utils/-/utils-1.6.6.tgz#1b7c2a167f5bbee8c24c69c00b171ae024365fd6"
-  integrity sha512-jt2gmlcU781Gfm0F6Jmd5j1FN1mBR7ChBWomD4uUaoRb2PVv17ulqrpS0W7fngRlAn3c+WFsN2cYL8UXeapRig==
-
 "@vime/core@^5.3.1":
   version "5.3.1"
   resolved "https://registry.yarnpkg.com/@vime/core/-/core-5.3.1.tgz#2df60b8a5c959808d98d29ca4ee63ef9d1ca22b5"
@@ -553,6 +533,11 @@ chokidar@^3.5.3:
     readdirp "~3.6.0"
   optionalDependencies:
     fsevents "~2.3.2"
+
+classnames@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.3.1.tgz#dfcfa3891e306ec1dad105d0e88f4417b8535e8e"
+  integrity sha512-OlQdbZ7gLfGarSqxesMesDa5uz7KFbID8Kpq/SxIoNGDqY8lSYs0D+hhtBXhcdB3rcbXArFr7vlHheLk1voeNA==
 
 color-convert@^1.9.0:
   version "1.9.3"
