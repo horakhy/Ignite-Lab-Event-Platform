@@ -21,6 +21,7 @@ O projeto foi desenvolvido cumprindo os seguintes requisitos:
 - [Apollo](https://www.apollographql.com/docs/react/)
 - [Tailwindcss](https://tailwindcss.com)
 - [phosphor-react](https://phosphoricons.com/)
+- [flaticon-favicon](https://www.flaticon.com/br/icone-gratis/brasil_197386?related_id=197386&origin=pack)
 
 ## 🤝 Colaboradores
 
